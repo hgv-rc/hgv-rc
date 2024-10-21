@@ -4,7 +4,7 @@ You've come across the official Hillgrove Robotics club Github account. Here, we
 
 
 ## 🔗 Links
-[![CCA Page](https://img.shields.io/badge/CCA%20Page%20-%23E34F26.svg?&style=for-the-badge&logoColor=white)](https://sites.google.com/moe.edu.sg/hgv-cca/clubs-societies/robotics-club)]
+[![CCA Page](https://img.shields.io/badge/CCA%20Page%20-%23E34F26.svg?&style=for-the-badge&logoColor=white)](https://sites.google.com/moe.edu.sg/hgv-cca/clubs-societies/robotics-club)
 
 
 ## Github Statistics
